@@ -1,0 +1,6 @@
+streamlit
+openai
+torch
+transformers
+pydub
+streamlit_audio_recorder
