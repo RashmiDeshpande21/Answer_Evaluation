@@ -52,5 +52,5 @@ This application uses Streamlit to facilitate recording or uploading audio files
 To run the Streamlit app, use the following command:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit.py
 ```
