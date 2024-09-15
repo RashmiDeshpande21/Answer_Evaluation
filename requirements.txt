@@ -1,6 +1,6 @@
-streamlit
-openai
-torch
-transformers
-pydub
-streamlit_audio_recorder
+streamlit==1.38.0
+openai==1.45.0
+torch==2.4.1
+transformers==4.44.2
+pydub==0.25.1
+audio-recorder-streamlit==0.0.10
