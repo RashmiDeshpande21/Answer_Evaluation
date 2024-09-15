@@ -5,3 +5,4 @@ transformers==4.44.2
 pydub==0.25.1
 audio-recorder-streamlit==0.0.10
 python-dotenv==1.0.1
+python-docx==1.1.2
